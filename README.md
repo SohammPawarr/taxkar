@@ -1,5 +1,5 @@
 # TaxKar
-TaxKar is a an online website (G2C) that can be used to assess income tax, GST on items and Foreign Exchange (Forex)
+TaxKar is a an online website (G2C) that can be used to assess income tax, GST on items, Foreign Exchange (Forex), and realtime Stock Market as well as predictions
 
 ## Steps to run this app : 
 1. First download the code and open it in preferred IDE as a project
@@ -25,3 +25,4 @@ TaxKar is a an online website (G2C) that can be used to assess income tax, GST o
 ### Smeet Patil
 ### Soham Patil
 ### Soham Pawar
+
